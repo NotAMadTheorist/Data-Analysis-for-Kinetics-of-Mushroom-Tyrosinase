@@ -1,4 +1,0 @@
-,Condition 1,Condition 2,t Value for Slopes,p Value for Slopes,Significantly different slopes?,t Value for Intercepts,p Value for Intercepts,Significantly different intercepts?
-0,Tyrosinase,Tyrosinase with p-Hydroxybenzoic Acid,35.41099054199049,3.795714233367775e-06,Yes,7.580791293789042,0.0016237528983411575,Yes
-1,Tyrosinase with p-Hydroxybenzoic Acid,Tyrosinase with Commercial Vinegar,24.252519059903655,3.2299132257662677e-07,Yes,0.5242690634124428,0.6188867583877049,No
-2,Tyrosinase with Commercial Vinegar,Tyrosinase,40.81453193719542,1.4464915043532756e-08,Yes,6.424637296052321,0.0006717704056165008,Yes
