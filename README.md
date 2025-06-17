@@ -4,9 +4,9 @@
 ![Enzyme Kinetics via UV-Vis | Lineweaver-Burk Plot](https://github.com/NotAMadTheorist/Data-Analysis-for-Kinetics-of-Mushroom-Tyrosinase/blob/main/Project%20Sample.jpg)
 
 ## 🗎 Project Abstract ##
-This project studies the kinetics or patterns in reaction rates in the oxidation of catechol (a phenol derivative) into o-benzoquinone via an enzyme called mushroom tyrosinase-PPO3 (MT-PPO3) extracted from a commercial mushroom sample (Agaricus bisporus). 
+This project studies the kinetics or patterns in reaction rates in the oxidation of catechol (a phenol derivative) into o-benzoquinone via an enzyme called mushroom tyrosinase-PPO3 (MT-PPO3) extracted from a commercial mushroom sample (*Agaricus bisporus*). 
 
-More specifically, the maximum reaction rate (vmax), Michaelis constant (KM), fit to the Michaelis-Menten model for enzyme catalysis, and the effect of the addition of p-hydroxybenzoic acid (p-HBA) and commercial vinegar samples on kinetic parameters were determined by performing UV-Vis spectrophotometry during the reaction. 
+More specifically, the maximum reaction rate (*v_max*), Michaelis constant (*K_M*), fit to the Michaelis-Menten model for enzyme catalysis, and the effect of the addition of p-hydroxybenzoic acid (p-HBA) and commercial vinegar samples on kinetic parameters were determined by performing UV-Vis spectrophotometry during the reaction. 
 
 Data on the absorbances of the reaction mixtures under different catechol, p-HBA, and vinegar concentrations were collected for seven minutes and summarized as a .CSV file. 
 
